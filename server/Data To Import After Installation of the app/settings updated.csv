@@ -1,0 +1,33 @@
+id,key,properties,tenant_id,allowed_for_api_use
+3,admin_role,"Super Admin_1",,0
+4,mail_host,sandbox.smtp.mailtrap.io,,0
+5,mail_port,465,,0
+6,mail_username,e1e0f01cad57ee,,0
+7,mail_password,245e87234a7039,,0
+8,mail_encryption,tls,,0
+9,mail_from_address,laravel_reimagined@noreply.com,,0
+10,mail_from_name,"Laravel Re Imagined",,0
+11,app_url,http://localhost:8000,,0
+12,app_animation,w3-animate-opacity_w3-animate-opacity,,1
+13,app_auditing,true_1,,0
+14,app_version,1.4,,1
+15,allowed_login_roles,Super--Admin_1,,0
+16,delete_inactive_users,3,,0
+17,site_email_address,laravelreimagined@gmail.com,,1
+18,redirect_to_after_login,Home_/,,1
+19,redirect_to_after_register,Home_/,,1
+20,redirect_to_after_logout,Login_/login,,1
+21,registration_role,"authenticated user_2",,0
+22,app_name,"Api Management Tool (AMT)",,0
+23,mail_mailer,smtp,,0
+24,cache_driver,"Redis Storage_redis.cache",,0
+25,api_email_verification,Disabled_,,0
+26,client_app_url,http://localhost:3000,,0
+27,reference_types,friend_0|friends_1,,0
+28,database_configuration,mainDatabase:DB_CONNECTION=mysql|DB_HOST=127.0.0.1|DB_PORT=3306|DB_DATABASE=amt|DB_USERNAME=root|DB_PASSWORD=root,,0
+29,database_backup,Disabled_,,0
+30,database_backup_configuration,agrilinkage_agrilinkage|calendar_calendar|mainDatabase_mainDatabase|karlCars_karlCars,,0
+31,search_skip_word,"no value",,1
+32,client_app_name,"(AMT) React",,1
+33,data_interoperability,Disabled_,,0
+34,redirect_to_after_password_reset,Login_/login,,0

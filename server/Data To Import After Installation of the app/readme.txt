@@ -1,0 +1,1 @@
+Update each link to relink the page to its respective link eg: Link:Home Page:Home Page

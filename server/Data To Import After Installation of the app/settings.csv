@@ -1,0 +1,16 @@
+key,properties,created_at,updated_at
+admin_role,"Super Admin_1","2024-05-30 21:35:00","2024-05-30 21:35:00"
+registration_role,"Authenticated User_2",,"2024-06-01 15:26:24"
+app_name,"Laravel Re Imagined v2",,"2024-05-31 15:20:10"
+mail_host,sandbox.smtp.mailtrap.io,,
+mail_port,2525,,
+mail_username,e1e0f01cad57ee,,
+mail_password,245e87234a7039,,
+mail_encryption,tls,,
+mail_from_address,laravel_reimagined@noreply.com,,
+mail_from_name,"Laravel Re Imagined",,
+app_url,http://localhost:8000,,
+app_animation,w3-animate-zoom_w3-animate-zoom,,
+app_auditing,false_,,
+app_version,1.98,,"2024-06-01 16:47:36"
+allowed_login_roles,Authenticated--User_2|Admin_3,"2024-05-30 21:39:43","2024-06-01 16:18:19"
